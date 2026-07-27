@@ -1,0 +1,4 @@
+id,parent_id,slug,name_fr,name_ar,name_en,image_url,active,sort_order
+cat_necklaces,,necklaces,Colliers & Pendentifs,قلادات ودلايات,Necklaces & Pendants,https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800&q=80,TRUE,1
+cat_bracelets,,bracelets,Bracelets & Gourmets,أساور وأسورة,Bracelets & Bangles,https://images.unsplash.com/photo-1611591475140-137da19c00b3?w=800&q=80,TRUE,2
+cat_rings,,rings,Bagues & Solitaires,خواتم وسوليتير,Rings & Bands,https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=800&q=80,TRUE,3

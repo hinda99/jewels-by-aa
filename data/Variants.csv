@@ -1,0 +1,5 @@
+id,product_id,sku,size,color_fr,color_ar,color_en,material_fr,material_ar,material_en,price_adjustment_mad,active,stock_status
+var_rn_gold_standard,prod_royal_necklace,JAA-NK-GLD-STD,,Doré,ذهبي,Gold,Plaqué Or 18k,مطلي بالذهب 18,18k Gold Plated,0,TRUE,in_stock
+var_rn_silver_standard,prod_royal_necklace,JAA-NK-SLV-STD,,Argenté,فضيات,Silver,Argent Massif 925,فضة خالصة 925,925 Sterling Silver,-40,TRUE,in_stock
+var_db_gold_m,prod_diamond_bracelet,JAA-BR-GLD-M,Medium (17cm),Or Rose,ذهب وردي,Rose Gold,Acier Inoxydable 316L,صلب غير قابل للصدأ 316L,316L Stainless Steel,0,TRUE,in_stock
+var_sr_52,prod_solitaire_ring,JAA-RG-52,Taille 54,Argenté,فضي,Silver,Argent 925 & Zirconium,فضة 925 وزركون,925 Silver & Zircon,0,TRUE,in_stock

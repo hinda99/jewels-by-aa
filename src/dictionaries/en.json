@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Catalog",
+    "categories": "Categories",
+    "about": "About Us",
+    "contact": "Contact",
+    "cart": "Cart"
+  },
+  "hero": {
+    "title": "Elegant Jewelry & Exclusive Designs",
+    "subtitle": "Discover our handcrafted collection. Order seamlessly directly via WhatsApp.",
+    "cta": "Explore Collection",
+    "whatsappCta": "Order on WhatsApp"
+  },
+  "features": {
+    "fastDelivery": "Fast Delivery",
+    "fastDeliveryDesc": "Shipping across all Morocco",
+    "whatsappOrder": "WhatsApp Direct",
+    "whatsappOrderDesc": "Instant direct order confirmation",
+    "authenticQuality": "Guaranteed Quality",
+    "authenticQualityDesc": "Premium materials & craftsmanship"
+  },
+  "catalog": {
+    "featuredTitle": "Featured Items",
+    "allProducts": "All Products",
+    "categoryFilter": "Category",
+    "price": "Price",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "addToCart": "Add to Cart",
+    "selectVariant": "Select option",
+    "viewDetails": "View product"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is currently empty.",
+    "continueShopping": "Continue Shopping",
+    "subtotal": "Subtotal",
+    "deliveryNote": "Delivery fees to be confirmed on WhatsApp",
+    "checkout": "Proceed to Checkout",
+    "quantity": "Quantity",
+    "remove": "Remove"
+  },
+  "checkout": {
+    "title": "Delivery Information",
+    "subtitle": "Fill in your details to prepare your WhatsApp order message.",
+    "name": "Full Name",
+    "namePlaceholder": "e.g., Amine Benali",
+    "phone": "Phone Number",
+    "phonePlaceholder": "e.g., 0612345678",
+    "city": "City",
+    "cityPlaceholder": "e.g., Casablanca, Rabat, Marrakech...",
+    "address": "Delivery Address",
+    "addressPlaceholder": "e.g., Street 14, Riad District",
+    "notes": "Delivery Notes (optional)",
+    "notesPlaceholder": "e.g., Please call before delivery",
+    "submit": "Confirm & Open WhatsApp",
+    "processing": "Preparing order..."
+  },
+  "footer": {
+    "tagline": "Refined elegance & personal service in Morocco.",
+    "rights": "All rights reserved."
+  }
+}

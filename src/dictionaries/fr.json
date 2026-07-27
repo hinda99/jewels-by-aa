@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "products": "Catalogue",
+    "categories": "Catégories",
+    "about": "À propos",
+    "contact": "Contact",
+    "cart": "Panier"
+  },
+  "hero": {
+    "title": "Bijoux Élégants & Créations Exclusives",
+    "subtitle": "Découvrez notre collection artisanale d'exception. Commandez facilement directement via WhatsApp.",
+    "cta": "Explorer la Collection",
+    "whatsappCta": "Commander sur WhatsApp"
+  },
+  "features": {
+    "fastDelivery": "Livraison Rapide",
+    "fastDeliveryDesc": "Expédition partout au Maroc",
+    "whatsappOrder": "Commande WhatsApp",
+    "whatsappOrderDesc": "Confirmation instantanée et directe",
+    "authenticQuality": "Qualité Garantée",
+    "authenticQualityDesc": "Matériaux nobles et finition soignée"
+  },
+  "catalog": {
+    "featuredTitle": "Nos Pièces Vedettes",
+    "allProducts": "Tous les Produits",
+    "categoryFilter": "Catégorie",
+    "price": "Prix",
+    "inStock": "En stock",
+    "outOfStock": "Rupture de stock",
+    "addToCart": "Ajouter au Panier",
+    "selectVariant": "Choisir une variante",
+    "viewDetails": "Voir le produit"
+  },
+  "cart": {
+    "title": "Votre Panier",
+    "empty": "Votre panier est actuellement vide.",
+    "continueShopping": "Continuer vos achats",
+    "subtotal": "Sous-total",
+    "deliveryNote": "Frais de livraison à confirmer sur WhatsApp",
+    "checkout": "Passer la commande",
+    "quantity": "Quantité",
+    "remove": "Supprimer"
+  },
+  "checkout": {
+    "title": "Informations de Livraison",
+    "subtitle": "Entrez vos coordonnées pour préparer votre message WhatsApp.",
+    "name": "Nom complet",
+    "namePlaceholder": "ex. Amine Benali",
+    "phone": "Numéro de Téléphone",
+    "phonePlaceholder": "ex. 0612345678",
+    "city": "Ville",
+    "cityPlaceholder": "ex. Casablanca, Rabat, Marrakech...",
+    "address": "Adresse de livraison",
+    "addressPlaceholder": "ex. Rue 14, Quartier Riad",
+    "notes": "Notes de livraison (facultatif)",
+    "notesPlaceholder": "ex. Appeler avant la livraison",
+    "submit": "Valider et Ouvrir WhatsApp",
+    "processing": "Préparation de la commande..."
+  },
+  "footer": {
+    "tagline": "Élégance raffinée et service personnalisé au Maroc.",
+    "rights": "Tous droits réservés."
+  }
+}
