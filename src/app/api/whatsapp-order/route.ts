@@ -57,7 +57,11 @@ export async function POST(request: NextRequest) {
       privacyMode,
     });
 
-    const destinationPhone = process.env.WHATSAPP_PHONE_NUMBER || '212600000000';
+    const destinationPhone =
+      process.env.NEXT_PUBLIC_WHATSAPP_PHONE_NUMBER ||
+      process.env.WHATSAPP_PHONE_NUMBER ||
+      '212698638275';
+
     const waUrl = buildWaMeUrl(destinationPhone, messageText);
 
     return NextResponse.json(
